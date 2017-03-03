@@ -26,4 +26,4 @@ Open the ‘Keys and Access Tokens’ tab.
 Copy ‘Consumer Key’, ‘Consumer Secret’, ‘Access token’ and ‘Access Token Secret’.
 
 ## Code Implementation
-open sentiment.py
+open [sentiment.py](twitter_sentiment_analysis/sentiment.py)
