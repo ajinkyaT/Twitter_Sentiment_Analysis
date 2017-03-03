@@ -1,4 +1,4 @@
-# twitter_sentiment_analysis
+# Twitter Sentiment Analysis using Tweepy and TextBlob.
 Twitter Sentiment Analysis using Python
 Installation:
 
